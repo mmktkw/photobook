@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 1024px) {
+  header {
+    padding: 0 10px;
+  }
+
+  #mainvisual {
+    padding: 0 10px;
+  }
+
+  .wrapper {
+    padding: 0 40px;
+  }
+
+  #detail .content img {
+    width: 100%;
+  }
+
+  #detail .content {
+    flex-direction: column;
+  }
+
+  .title {
+    margin-top: 20px;
+  }
+}
